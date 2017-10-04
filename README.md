@@ -68,7 +68,7 @@ sorted: [0, 0, 2, 3, 4, 4 ,5, 5]
 ```
 
 ### Usage
-To run the code, uncomment the call to example1() through example()3 in the bottom of the playground.
+To run the code, uncomment the call to example1() through example3() in the bottom of the playground.
 
 ### Observation 
 Counting sort is more effective when the input array has smaller range of minimum to maximum values than it’s total count. The example in the playground elaborates on this point. For more information on the Counting Sort algorithm see 
